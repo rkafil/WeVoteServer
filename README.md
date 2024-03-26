@@ -4,7 +4,7 @@
 
 `Example https://tokei.rs/b1/{host: values: github|gitlab}/{Repo Owner eg: XAMPPRocky}/{Repo name eg: tokei}`
 
-WeVote: [![](https://tokei.rs/b1/github/wevote/WebApp)](https://github.com/wevote/WebApp) 
+WebApp: [![](https://tokei.rs/b1/github/wevote/WebApp)](https://github.com/wevote/WebApp) 
 <br>
 WeVoteServer: [![](https://tokei.rs/b1/github/wevote/WeVoteServer)](https://github.com/wevote/WeVoteServer) 
 <br>
