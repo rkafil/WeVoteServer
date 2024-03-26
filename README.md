@@ -5,19 +5,19 @@
 `Example https://tokei.rs/b1/{host: values: github|gitlab}/{Repo Owner eg: XAMPPRocky}/{Repo name eg: tokei}`
 
 WeVote: [![](https://tokei.rs/b1/github/wevote/WebApp)](https://github.com/wevote/WebApp) 
-
+<br>
 WeVoteServer: [![](https://tokei.rs/b1/github/wevote/WeVoteServer)](https://github.com/wevote/WeVoteServer) 
-
+<br>
 EndorsementExtension: [![](https://tokei.rs/b1/github/wevote/EndorsementExtension)](https://github.com/wevote/EndorsementExtension) 
-
+<br>
 WeVoteCordova: [![](https://tokei.rs/b1/github/wevote/WeVoteCordova)](https://github.com/wevote/WeVoteCordova) 
-
+<br>
 Campaigns: [![](https://tokei.rs/b1/github/wevote/Campaigns)](https://github.com/wevote/Campaigns) 
-
+<br>
 cordova-plugin-googleplus: [![](https://tokei.rs/b1/github/wevote/cordova-plugin-googleplus)](https://github.com/wevote/cordova-plugin-googleplus) 
-
+<br>
 gapi-script: [![](https://tokei.rs/b1/github/wevote/gapi-script)](https://github.com/wevote/gapi-script) 
-
+<br>
 
 # README for WeVoteServer
 
