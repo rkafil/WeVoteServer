@@ -1,9 +1,10 @@
 [![Build Status](https://travis-ci.org/wevote/WeVoteServer.svg?branch=master)](https://travis-ci.org/wevote/WeVoteServer) [![Coverage Status](https://coveralls.io/repos/wevote/WeVoteServer/badge.svg?branch=master&service=github)](https://coveralls.io/github/wevote/WeVoteServer?branch=master)
 
 ### Track lines of code in all WeVote Repos
-# Example https://tokei.rs/b1/{host: values: github|gitlab}/{Repo Owner eg: XAMPPRocky}/{Repo name eg: tokei}
 
-[![](https://tokei.rs/b1/github/wevote/WebApp)](https://github.com/wevote/WebApp).
+`Example https://tokei.rs/b1/{host: values: github|gitlab}/{Repo Owner eg: XAMPPRocky}/{Repo name eg: tokei}`
+
+[![WeVote](https://tokei.rs/b1/github/wevote/WebApp)](https://github.com/wevote/WebApp).
 
 
 # README for WeVoteServer
