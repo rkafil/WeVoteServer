@@ -18,6 +18,25 @@ cordova-plugin-googleplus: [![](https://tokei.rs/b1/github/wevote/cordova-plugin
 <br>
 gapi-script: [![](https://tokei.rs/b1/github/wevote/gapi-script)](https://github.com/wevote/gapi-script) 
 <br>
+Action: [![](https://tokei.rs/b1/github/wevote/Action)](https://github.com/wevote/Action) 
+<br>
+Account: [![](https://tokei.rs/b1/github/wevote/Account)](https://github.com/wevote/Account) 
+<br>
+js-cookie: [![](https://tokei.rs/b1/github/wevote/js-cookie)](https://github.com/wevote/js-cookie) 
+<br>
+python3-openid: [![](https://tokei.rs/b1/github/wevote/python3-openid)](https://github.com/wevote/python3-openid) 
+<br>
+django-background-tasks: [![](https://tokei.rs/b1/github/wevote/django-background-tasks)](https://github.com/wevote/django-background-tasks) 
+<br>
+DataScience: [![](https://tokei.rs/b1/github/wevote/DataScience)](https://github.com/wevote/DataScience) 
+<br>
+DesignInventory: [![](https://tokei.rs/b1/github/wevote/DesignInventory)](https://github.com/wevote/DesignInventory) 
+<br>
+ansible-django-stack: [![](https://tokei.rs/b1/github/wevote/ansible-django-stack)](https://github.com/wevote/ansible-django-stack) 
+<br>
+vip-embeddable-tool: [![](https://tokei.rs/b1/github/wevote/vip-embeddable-tool)](https://github.com/wevote/vip-embeddable-tool) 
+<br>
+
 
 # README for WeVoteServer
 
